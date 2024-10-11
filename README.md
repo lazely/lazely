@@ -1,5 +1,5 @@
-## Hi there 👋
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dkvltmxhf})](https://solved.ac/{dkvltmxhf})
 <!--
 **lazely/lazely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
